@@ -1,0 +1,10 @@
+The name score!
+This task will be split into two tiny tasks.
+
+1. Ask the user for the first name.
+2. Ask the user for their last name.
+3. Print the initials of the user's name. As an example "John Snow" should print JS.
+4. Create a variable called score. 
+5. Using If statement check if the length of the first name is longer than 5 letters, if yes, add 3points to the score, if not, add 5.
+6. Do the same thing for the surname!
+7. At the end print "Your name has scored x points!" x should be the calculation from your score!
